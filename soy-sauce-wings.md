@@ -24,7 +24,7 @@ cook time: 30min
 - 3 tablespoons (7.5ml) dark soy sauce
 - 2 star anise
 - 3/4 cup (188ml) cold water
-- Rock sugar
+- Rock sugar (20g)
 
 ### At the end
 

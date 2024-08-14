@@ -20,7 +20,7 @@ cook time: 30min
 - 1 tbsp mirin
 - 1 tbsp soy sauce
 - 1 tbsp sugar
-- 1 tsp dashi
+- 1 tsp dashi (Can skip. Or use sake)
 
 ### Optional
 
