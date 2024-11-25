@@ -6,20 +6,23 @@ servings: 2-4
 cook time: 1 hours
 ---
 
-# Asian Chimichrurri Steak
+# Asian Chimichurri Steak
 
 ## Ingredients
 
 ### Core
+
 - 3/4 - 1 1/2 lb flank or skirt steak
 - 2 tablespoon clarified butter
 
 ### Marinade
+
 - 1/2 - 3/4 of the chimichurri sauce
 - 3 tablespoon soy sauce
 - 1 tablespoon mirin
 
 ### Chimichurri Sauce
+
 - 1 bunch of chopped parsley
 - 3 cloves garlic
 - 1 shallot

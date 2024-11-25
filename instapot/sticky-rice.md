@@ -26,7 +26,7 @@ cook time: 1 hour, 20minutes
 ### Garnish
 
 - 2 (130g) eggs (optional) , scrambled
-- 1 stalk green onions , thinly sliced 
+- 1 stalk green onions , thinly sliced
 
 ## Instructions
 

@@ -3,12 +3,13 @@
 Template:
 
 ---
+
 # Use YAML front matter to specify recipe metadata
+
 categories: desserts, baking, feel good, comfort food
-yields: 18 cinnamon rolls
 servings: 9
-prep: 20 mins
 cook: 20 mins
+
 ---
 
 # Homemade Cinnamon Rolls
@@ -57,4 +58,5 @@ Sprinkle remaining cinnamon sugar over butter-brushed dough. Roll dough around f
 6. Beat [powdered sugar], [cream cheese], 1/4 cup softened [butter], and [vanilla extract] together in a bowl until frosting is smooth. Top hot cinnamon rolls with cream cheese frosting.
 
 ## Notes
+
 Don't need as much? Cut the recipe in half and bake for only 15 minutes!

@@ -11,17 +11,18 @@ cook time: 55m
 ## Ingredients
 
 ### Core
+
 - 10 - 12 wings
 - 1 tbsp honey
 - 1/2 tsp water
 
 ### Marinade
+
 - 1/4 tsp white pepper
 - 1 tbsp soy suace
 - 1/2 tsp salt
 - chopped onion
 - chopped ginger
-
 
 ## Instructions
 

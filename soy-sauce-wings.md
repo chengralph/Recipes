@@ -15,6 +15,7 @@ cook time: 30min
 - 10-12 wings
 
 ### Aromatics
+
 - 5-8 slices of ginger
 - green onion
 
@@ -33,7 +34,7 @@ cook time: 30min
 
 ## Instructions
 
-1. Sear ginger 
+1. Sear ginger
 2. Sear wings 2min on each side on hot pan
 3. Add water to barely cover, then the sauce.
-4. Low for 20minutes. 
+4. Low for 20minutes.

@@ -11,11 +11,12 @@ cook time: 1hr
 ## Ingredients
 
 ### Core
-- 3  pounds pork shoulder (leaner)/pork butt (fatty)
+
+- 3 pounds pork shoulder (leaner)/pork butt (fatty)
 - 1.5 cups of water
 
-
 ### Marinade
+
 - ½ cup granulated white sugar
 - 4 teaspoons salt
 - 1 teaspoon five spice powder
@@ -27,23 +28,21 @@ cook time: 1hr
 - 4 teaspoons molasses
 - 6 cloves finely minced garlic
 
-
 ### Coating Sauce
+
 - 1/2 marinade
 - 4 tablespoons maltose or honey
 - 2 tablespoons hot water
 
-
-
-
 ## Instructions
-1. This recipe requires a rack with a tray underneath 
+
+1. This recipe requires a rack with a tray underneath
 2. Marinade the pork with half of the marinade overnight. Keep the other half for later.
 3. Preheat oven to 475F. Mix half of marinade with hot water and honey.
-4. Lay pork on rack. Pour 1.5 cups of water underneath to keep tray from burning. 
+4. Lay pork on rack. Pour 1.5 cups of water underneath to keep tray from burning.
 5. Cook for 10min.
 6. Lower temp to 375F
-7. Cook for 15min. 
+7. Cook for 15min.
 8. Flip the pork. Add more water if dry. Cook for 15min.
 9. Baste pork with 1/3 of the sauce. Flip. Baste pork with 1/3 of the sauce.
 10. Cook for 10min.
