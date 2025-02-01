@@ -27,7 +27,7 @@ cook time: 30min
 - 1 tsp dark soy sauce
 - 1 tbsp water
 - 1 tbsp cooking wine
-- 1 tsp sugar
+- 1 tsp   
 - 1 tsp cornstarch
 - 0.25 tsp white pepper
 
