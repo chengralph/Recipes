@@ -20,7 +20,7 @@ cook time: 30min
 - 0.50 oz green onion (green and white parts divided)
 - 0.50 ginger
 - 1.5 tablespoon oil
-- 0.50 teaspoon salt
+- 0..3 teaspoon salt
 - 1 teaspoon sugar
 - 0.25 teaspoon white pepper
 - 1 teaspoon Kikkoman® Oyster Sauce
@@ -33,7 +33,7 @@ cook time: 30min
 - 3 oz mung bean vermicelli (2 bundles of LungKuw)
 - 1 tablespoon Kikkoman® Oyster Sauce
 - 0.50 teaspoon Kikkoman® Light Soy Sauce
-- 0.50 teaspoon salt
+- 0.30 teaspoon salt
 - 0.50 teaspoon sugar
 
 ## Instructions
@@ -42,4 +42,4 @@ cook time: 30min
 2. During this team, prep paste. Heat up oil and add to paste.
 3. Drain vermicelli and cut. Add the seasoning.
 4. Cut back end of shrimp. Add paste.
-5. Steam on high for 6min
+5. Steam on high for 5min
