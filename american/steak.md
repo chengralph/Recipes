@@ -26,6 +26,12 @@ cook time: 20min
 
 ## Instructions
 
+
+### Dry Brine
+1. 3 hours before, pat steak down with paper towel
+2. Salt and pepper steak. Let it sit in a rack with a tray underneath for 2 hours
+3. Take out steak after 2 hours and let it reach room temp for 1 hour
+4. 
 ### For Ribeye Pan Only
 1. Heat pan 2-3min. Oil. 
 2. Sear 2min. 
@@ -37,8 +43,9 @@ cook time: 20min
 
 
 ### For Tomohawk Pan > Oven.
-1. Heat Oven to 350. Let steak rest at room temp for 60min. Can dry brine 2 hours before.
+1. Heat Oven to 375. 
 2. Heat pan 2-3min. Oil. 
 3. Sear 2min. 
 4. Flip. Add Rosemary and 1 tbsp butter. Sear 3min. 
-5. Transfer to oven for 7minutes. Pull at 125F.
+5. Transfer to oven until internla temp of 125
+   - 3 inches: 11minutss
