@@ -1,6 +1,5 @@
 ---
-# Use YAML front matter to specify recipe metadata
-categories: chinese
+categories: Chinese
 device: Pot/pan with lid
 servings: 4
 cook time: 30min

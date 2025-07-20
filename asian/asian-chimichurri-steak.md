@@ -1,9 +1,8 @@
 ---
-# Use YAML front matter to specify recipe metadata
-categories: asian, mexican
+categories: Asian, Hispanic
 device: Pan
 servings: 2-4
-cook time: 1 hours
+cook time: 1hr
 ---
 
 # Asian Chimichurri Steak

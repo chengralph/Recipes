@@ -1,8 +1,7 @@
 ---
-# Use YAML front matter to specify recipe metadata
-categories: SIDES
+categories: European
 servings: 4
-cook: 1 HOUR
+cook: 1hr
 ---
 
 # Gratin Dauphinoise

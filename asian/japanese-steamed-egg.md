@@ -1,9 +1,8 @@
 ---
-# Use YAML front matter to specify recipe metadata
 categories: Japanese
 device: Steamer
 servings: 3
-cook time: 30m
+cook time: 30min
 ---
 
 # Japanese Steamed Egg

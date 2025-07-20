@@ -1,9 +1,8 @@
 ---
-# Use YAML front matter to specify recipe metadata
-categories: chinese
+categories: Chinese
 device: Oven
 servings: 2
-cook time: 55m
+cook time: 55min
 ---
 
 # Honey Chicken Wings

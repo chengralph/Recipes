@@ -1,6 +1,5 @@
 ---
-# Use YAML front matter to specify recipe metadata
-categories: indian
+categories: European/Indian
 device: pan
 servings: 3-4
 cook time: 30

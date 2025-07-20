@@ -1,6 +1,5 @@
 ---
-# Use YAML front matter to specify recipe metadata
-categories: korean
+categories: Korean
 device: Pan
 servings: 2-4
 cook time: 10min

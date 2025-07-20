@@ -1,5 +1,4 @@
 ---
-# Use YAML front matter to specify recipe metadata
 categories: Chinese
 device: Steamer, Wok
 servings: 4

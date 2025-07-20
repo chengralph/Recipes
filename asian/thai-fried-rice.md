@@ -1,6 +1,5 @@
 ---
-# Use YAML front matter to specify recipe metadata
-categories: thai
+categories: Thai
 device: Wok
 servings: 2
 cook time: 30min

@@ -26,5 +26,5 @@ cook time: 30min
 ## Instructions
 1. Boil sake/minirn for 20sconds. Turn to low and add miso and sugar, and whisk. Marinate fish for 2 days
 2. Heat oven to 400F
-3. Oil in pan, hot. Skins side down for 2-3min. Flip, sear 2min.
-4. Oven for 5 - 10min.
+3. Oil in pan, hot. Skins side down for 1.5min. Flip, sear 1.5min.
+4. Oven for 7 - 10min.
