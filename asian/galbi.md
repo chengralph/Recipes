@@ -25,7 +25,7 @@ cook time: 10min
 - pinch of black pepper
 - 1 medium onion
 - 8 garlic cloves
-- 1 asian pear (diced)
+- 1 asian pear or apple (diced)
 - 1/2 inch ginger
 
 ## Instructions
