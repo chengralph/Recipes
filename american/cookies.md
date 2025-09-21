@@ -11,17 +11,15 @@ https://www.youtube.com/watch?v=f-M3JN_7LGU&ab_channel=Honeysuckle
 ## Ingredients
 
 ### Core
-- 114g unstaled Irish Buter (I added 116 last time, too soggy?. Try 105g)
-- 1/2 cup white sugar
+- 114g unstaled Irish Buter (I added 116 last time, too soggy?. Try 110g)
+- 1/2 cup white sugar (100) (110)
 - 1/2 cup dark brown sugar
 - 1 egg
 - 1 tsp vanilla
 - 1/2 tsp salt (kosher)
 - 1/2 tsp baking soda
-
-
-- 1 1/3 cups AP flour
-- 1 cup large chocolate chips (175g of half milk chocolate, half dark choclate chopped)
+- 1 1/3 cups AP flour (160g)
+- 1 cup large chocolate chips (175g mix of half milk chocolate, half dark chocolate chopped)
 
 
 
