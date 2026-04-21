@@ -29,7 +29,7 @@ cook time: 1hr
 - 3 table spoon rice vinegar
 - 1 tablespoon lemon or lime juice
 - few dashes of salt
-- 1/2 cup olive oil
+- 1/2 cup olive oil    
 
 ## Instructions
 

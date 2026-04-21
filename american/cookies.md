@@ -6,29 +6,34 @@ cook time: 30min
 ---
 
 # Cookies
-https://www.youtube.com/watch?v=f-M3JN_7LGU&ab_channel=Honeysuckle
+
 
 ## Ingredients
 
 ### Core
-- 114g unstaled Irish Buter (I added 116 last time, too soggy?. Try 110g)
-- 1/2 cup white sugar (100) (110)
-- 1/2 cup dark brown sugar
+10~12 Cookies
+- 1/2 cup unslated butter
+
 - 1 egg
-- 1 tsp vanilla
-- 1/2 tsp salt (kosher)
-- 1/2 tsp baking soda
-- 1 1/3 cups AP flour (160g)
-- 1 cup large chocolate chips (175g mix of half milk chocolate, half dark chocolate chopped)
+- 1 teaspoon vailla bean 
 
 
+- 1/2 cup brown sugar
+- 1/4 cup wwhite sugar
+- 1 cup all purpose flour
+- 3/8 teaspoon baking soda
+- 1/8 teaspoon baking powder
+- Pinch of salt
+
+- 1 cup semi sweet chocilate chip
+- Flakey salt
 
 ## Instructions
-1. Brown butter in pan. Add to empty mixing bowl, cool for 5minutes.
+1. Brown butter in pan. Add to empty mixing bowl, cool for 5minutes in freezeer
 2. Preheat Oven to 350F
-3. Mix in Sugars. Stir. Mix in Egg. Stir.
-4. Add Vanilla, Kosher Salt, backing soda, try to add in Vanilla+Baking Soda together to activate to Baking Soda
-5. Stir a lot Then once it’s a ribbon-like consistency
-6. Add in Flour, Chocolate. Mix generously, want to keep the air bubbles
-7. Scoop to 12-16 cookies to baking tray. Cool for 5-10min in fridge.
-8. Bake for 10-12min in Oven
+3. Mix dry ingredients (sugar, flour, soda, powder, salt)
+4. Mix egg + vanilla bean
+5. Mix. Add chocoliate chip.
+6. Scoop and let it rest in fridge for 10min or overnight
+7. Bake for 9-12min or until brown. If from overnight, let it sit for 30min in room temp. 
+8. Add falke salt
