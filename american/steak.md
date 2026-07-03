@@ -50,6 +50,23 @@ cook time: 20min
 5. Transfer to oven until internla temp of 125
    - 3 inches: 11minutss
 
+### For Tomohawk Oven > Pan.
+1. Heat Oven to 225. 
+2. Place steak on wirerack for 60min
+3. Should be 115F
+4. Sear high eat both sides. Add rosemarybutter
+5. Internal temp of 125. 
+
+^ Above came out very rare, around 110.
+TRY
+1. Heat Oven to 225. 
+2. Place steak on wirerack for 70min
+3. Should be 120~F
+4. Sear high eat both sides. Add rosemarybutter
+5. Internal temp of 125. 
+
+
+
 ### For NY STRIP
 1. Heat pan 2-3min. Oil. 
 2. Sear 2min. 
